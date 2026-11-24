@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.FakeHealth" parent="android:Theme.Material.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/samsung_blue_light</item>
+        <item name="colorPrimaryVariant">@color/samsung_blue_light</item>
+        <item name="colorOnPrimary">@android:color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/health_green_light</item>
+        <item name="colorSecondaryVariant">@color/health_green_light</item>
+        <item name="colorOnSecondary">@android:color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">@color/background_dark</item>
+    </style>
+</resources>

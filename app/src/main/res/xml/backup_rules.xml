@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <include domain="database" path="fake_health_db" />
+    <include domain="sharedpref" path="secret_prefs.preferences_pb" />
+</full-backup-content>
